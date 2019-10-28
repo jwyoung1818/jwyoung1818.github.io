@@ -44,6 +44,10 @@ data processing and data analytics systems.
 
 # Service
 
+- Invited to the ECOOP'20 Artifact Evaluation Committee (AEC)
+
+- Invited to ICPE 2020 Poster and Demo Track program committee
+
 - ACM-W mentor program
 
 - Student Volunteer for SOSP 2017
