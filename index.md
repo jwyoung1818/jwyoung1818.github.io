@@ -27,6 +27,9 @@ data processing and data analytics systems.
 
 # Publications
 
+- [View-Driven Optimization of Database-Backed Web Applications](#). *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIDR'20)
+
+- [Improving Performance and Quality of Database-Backed Software](#). **Junwen Yang**. Won 2019 John Vlissides Award. (SPLASH 2019 Doctoral Symposium)
 
 - [View-Centric Performance Optimization for Database-Backed Web Applications](#). ***Junwen Yang**, Cong Yan, Chengcheng Wan, Shan Lu, Alvin Cheung* (ICSE'19)  <i class='fas fa-medal' style='font-size:24px;color:red'></i> <font color="maroon"><i>SIGSOFT Distinguished Paper Award</i></font>
 
@@ -58,6 +61,8 @@ data processing and data analytics systems.
 - CERES Outstanding Research Award 1st Year Graduate 2017
 
 - UU Fellowship 2019
+
+- John Vlissides Award
 
 # Contact
 
