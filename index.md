@@ -26,6 +26,7 @@ data processing and data analytics systems.
    
 
 # Publications
+-[Managing data constraints in database-backed web applications](#) ***Junwen Yang**, Utsav Sethi, Cong Yan, Shan Lu, Alvin Cheung* (ICSE'19)
 
 - [View-Driven Optimization of Database-Backed Web Applications](#). *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIDR'20)
 
