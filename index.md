@@ -7,7 +7,7 @@ layout: default
 
 
 I am a fourth-year Ph.D student in system group at the department of computer science, the University of Chicago. I am working with Prof. [Shan Lu](http://people.cs.uchicago.edu/~shanlu) on the performance and the scalability problems of
-data processing and data analytics systems.
+data processing and data analytics systems. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
 
 # Education
 - 2016.8-now, University of Chicago, Ph.D., Computer Science, Supervisor: Prof. [Shan Lu](http://people.cs.uchicago.edu/~shanlu)
@@ -77,6 +77,4 @@ data processing and data analytics systems.
    The University of Chicago <br/>
    5730 S. Ellis Avenue <br/>
    Chicago, IL 60637 <br/>
-
-# [Resume]({{ site.url }}/jw_cv_long.pdf)
 
