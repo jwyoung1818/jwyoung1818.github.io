@@ -49,9 +49,7 @@ data processing and data analytics systems.
 
 - ACM-W mentor program
 
-- Student Volunteer for SOSP 2017
-
-- Student volunteer for SIGMOD 2017
+- Student Volunteer for SOSP 2017, SIGMOD 2017, ICSE 2019
 
 # Teaching
 
@@ -59,13 +57,15 @@ data processing and data analytics systems.
 
 # Awards
 
+- UU Fellowship 2019
+
+- John Vlissides Award 2019
+
+- SIGSOFT Distinguished Paper Award 2019
+
 - SOSP'17, CIKM'17, SIGIR'17 travel grant
 
 - CERES Outstanding Research Award 1st Year Graduate 2017
-
-- UU Fellowship 2019
-
-- John Vlissides Award
 
 # Contact
 
