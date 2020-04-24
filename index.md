@@ -5,8 +5,6 @@
 layout: default 
 ---
 
-![junwen]({{ site.url }}/image.jpg){:class="img-responsive"}
-
 
 I am a fourth-year Ph.D student in system group at the department of computer science, the University of Chicago. I am working with Prof. [Shan Lu](http://people.cs.uchicago.edu/~shanlu) on the performance and the scalability problems of
 data processing and data analytics systems.
