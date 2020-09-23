@@ -24,7 +24,7 @@ data processing and data analytics systems. Here is my [resume]({{ site.url }}/j
    
    - [Panorama](https://hyperloop-rails.github.io/panorama/), a view-centric and database-aware development environment for web developers.
    
-   - [Vibranium](https://hyperloop-rails.github.io/vibranium/) the first in-depthstudy of data-constraint problems in web applications
+   - [Vibranium](https://hyperloop-rails.github.io/vibranium/), the first in-depth study of data-constraint problems in web applications
    
 
 # Publications
