@@ -40,12 +40,13 @@ data processing and data analytics systems. Here is my [resume]({{ site.url }}/j
 - [Understanding Performance Inefficiencies in Real-world Database-backed Applications](https://hyperloop-rails.github.io/study_db.pdf). *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIKM'17)
 
 
-
 # Service
 
-- Invited to the ECOOP'20 Artifact Evaluation Committee (AEC)
+- Invited to  the ICPE 2021 Artifact Evaluation/Demo Program Committee 
 
-- Invited to ICPE 2020 Poster and Demo Track program committee
+- Served on the ECOOP'20 Artifact Evaluation Committee (AEC)
+
+- Served on ICPE 2020 Poster and Demo Track program committee
 
 - ACM-W mentor program
 
@@ -57,7 +58,7 @@ data processing and data analytics systems. Here is my [resume]({{ site.url }}/j
 
 # Awards
 
-- Siebel Scholar 2021 
+- [Siebel Scholar 2021](https://www.siebelscholars.com/scholar-profile/1992/) 
 
 - Harper Dissertation Fellowship 2020
 
