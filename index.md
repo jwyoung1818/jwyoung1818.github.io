@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-I am a fourth-year Ph.D student in system group at the department of computer science, the University of Chicago. I am working with Prof. [Shan Lu](http://people.cs.uchicago.edu/~shanlu) on the performance and the scalability problems of
+I am a fifth-year Ph.D student in system group at the department of computer science, the University of Chicago. I am working with Prof. [Shan Lu](http://people.cs.uchicago.edu/~shanlu) on the performance and the scalability problems of
 data processing and data analytics systems. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
 
 # Education
@@ -18,9 +18,13 @@ data processing and data analytics systems. Here is my [resume]({{ site.url }}/j
 
 - [Hyperloop](http://hyperloop.cs.uchicago.edu), improve the performance of your ORM applications.
 
+   - A comprehensive study of performance problems on existing open-source applications built with Ruby-on-Rails.
+   
    - [PowerStation](http://hyperloop.cs.uchicago.edu/powerstation), a RubyMine plugin to help you find performance bugs.
    
    - [Panorama](https://hyperloop-rails.github.io/panorama/), a view-centric and database-aware development environment for web developers.
+   
+   - [Vibranium](https://hyperloop-rails.github.io/vibranium/) the first in-depthstudy of data-constraint problems in web applications
    
 
 # Publications
