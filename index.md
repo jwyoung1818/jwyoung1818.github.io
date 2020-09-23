@@ -28,9 +28,9 @@ big-data softwares. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
    
 
 # Publications
-- [Managing data constraints in database-backed web applications](#) ***Junwen Yang**, Utsav Sethi, Cong Yan, Shan Lu, Alvin Cheung* (ICSE'20)
+- [Managing data constraints in database-backed web applications](https://hyperloop-rails.github.io/278.pdf) ***Junwen Yang**, Utsav Sethi, Cong Yan, Shan Lu, Alvin Cheung* (ICSE'20)
 
-- [View-Driven Optimization of Database-Backed Web Applications](#). *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIDR'20)
+- [View-Driven Optimization of Database-Backed Web Applications](https://homes.cs.washington.edu/~congy/view-driven.pdf). *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIDR'20)
 
 - [Improving Performance and Quality of Database-Backed Software](#). **Junwen Yang**.  <i class='fas fa-medal' style='font-size:24px;color:red'></i> <font color="maroon"><i>2019 John Vlissides Award</i></font>   (SPLASH 2019 Doctoral Symposium)
 
