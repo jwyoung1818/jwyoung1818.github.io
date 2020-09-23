@@ -57,9 +57,13 @@ data processing and data analytics systems. Here is my [resume]({{ site.url }}/j
 
 # Awards
 
+- Siebel Scholar 2021 
+
+- Harper Dissertation Fellowship 2020
+
 - UU Fellowship 2019
 
-- John Vlissides Award 2019
+- ACM SIGPLAN John Vlissides Award 2019
 
 - SIGSOFT Distinguished Paper Award 2019
 
