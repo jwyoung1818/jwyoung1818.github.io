@@ -6,8 +6,8 @@ layout: default
 ---
 
 
-I am a fifth-year Ph.D student in system group at the department of computer science, the University of Chicago. I am working with Prof. [Shan Lu](http://people.cs.uchicago.edu/~shanlu) on the performance and the scalability problems of
-data processing and data analytics systems. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
+I am a fifth-year Ph.D student in system group at the department of computer science, the University of Chicago. I am working with Prof. [Shan Lu](http://people.cs.uchicago.edu/~shanlu) on the performance and the correctness problems of
+big-data softwares. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
 
 # Education
 - 2016.8-now, University of Chicago, Ph.D., Computer Science, Supervisor: Prof. [Shan Lu](http://people.cs.uchicago.edu/~shanlu)
