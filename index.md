@@ -62,7 +62,7 @@ big-data softwares. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
 
 # Awards
 
-- [https://eecs.berkeley.edu/rising-stars-2020]Invited to Rising Star workshop 2020
+- [Invited to Rising Stars 2020 workshop](https://eecs.berkeley.edu/rising-stars-2020/)
 
 - [Siebel Scholar 2021](https://www.siebelscholars.com/scholar-profile/1992/) 
 
