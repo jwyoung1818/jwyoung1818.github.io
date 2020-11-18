@@ -32,12 +32,13 @@ big-data softwares. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
 
 - [View-Driven Optimization of Database-Backed Web Applications](https://homes.cs.washington.edu/~congy/view-driven.pdf). *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIDR'20)
 
-- [Improving Performance and Quality of Database-Backed Software](#). **Junwen Yang**.  <i class='fas fa-medal' style='font-size:24px;color:red'></i> <font color="maroon"><i>2019 John Vlissides Award</i></font>   (SPLASH 2019 Doctoral Symposium)
+- [Improving Performance and Quality of Database-Backed Software](./research_plan_splash_syposium.pdf). **Junwen Yang**.  <i class='fas fa-medal' style='font-size:24px;color:red'></i> <font color="maroon"><i>2019 John Vlissides Award</i></font>   (SPLASH 2019 Doctoral Symposium)
 
 - [View-Centric Performance Optimization for Database-Backed Web Applications](#). ***Junwen Yang**, Cong Yan, Chengcheng Wan, Shan Lu, Alvin Cheung* (ICSE'19)  <i class='fas fa-medal' style='font-size:24px;color:red'></i> <font color="maroon"><i>SIGSOFT Distinguished Paper Award</i></font>
 
 
-- [PowerStation: Automatically detecting and fixing inefficiencies of database-backed web applications in IDE](https://hyperloop-rails.github.io/powerstation.pdf). ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (FSE'18 Demonstartion Track)
+- [PowerStation: Automatically detecting and fixing inefficiencies of database-backed web applications in IDE](https://hyperloop-rails.github.io/powerstation.
+). ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (FSE'18 Demonstartion Track)
 
 - [How not to structure your database-backed web applications: a study of performance bugs in the wild](https://hyperloop-rails.github.io/220-HowNotStructure.pdf). ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (ICSE'18)
    
