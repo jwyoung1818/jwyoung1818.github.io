@@ -42,13 +42,13 @@ big-data softwares. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
 } -->
 # Publications
 
-- [Understanding and Detecting Software Upgrade Failures in Distributed Systems](#) Yongle zhang, ***Junwen Yang**, Zhuqi Jin, Utsav Sethi, Shan Lu, Ding Yuan* (SOSP'21)
+- [Understanding and Detecting Software Upgrade Failures in Distributed Systems](#). *Yongle zhang, **Junwen Yang**, Zhuqi Jin, Utsav Sethi, Shan Lu, Ding Yuan* (SOSP'21)
 
-- [Auto-Pipeline: Synthesizing Complex Data Pipelines By-Target Using Reinforcement Learning and Search](#) ***Junwen Yang**, Chaudhuri, Surajit* (VLDB'21)
+- [Auto-Pipeline: Synthesizing Complex Data Pipelines By-Target Using Reinforcement Learning and Search](#). ***Junwen Yang**, Chaudhuri, Surajit* (VLDB'21)
 
-- [Automated Code Refactoring upon Database-Schema Changes in Web Applications](#) Sophie Xie, ***Junwen Yang***, Shan Lu* (ASE'21 Demonstration Track)
+- [Automated Code Refactoring upon Database-Schema Changes in Web Applications](#). *Sophie Xie, **Junwen Yang**, Shan Lu* (ASE'21 Demonstration Track)
 
-- [Managing data constraints in database-backed web applications](https://hyperloop-rails.github.io/278.pdf) ***Junwen Yang**, Utsav Sethi, Cong Yan, Shan Lu, Alvin Cheung* (ICSE'20)
+- [Managing data constraints in database-backed web applications](https://hyperloop-rails.github.io/278.pdf). ***Junwen Yang**, Utsav Sethi, Cong Yan, Shan Lu, Alvin Cheung* (ICSE'20)
 
 - [View-Driven Optimization of Database-Backed Web Applications](https://homes.cs.washington.edu/~congy/view-driven.pdf). *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIDR'20)
 
