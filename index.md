@@ -43,6 +43,9 @@ big-data softwares. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
 # Publications
 
 - [Understanding and Detecting Software Upgrade Failures in Distributed Systems](#). *Yongle zhang, **Junwen Yang**, Zhuqi Jin, Utsav Sethi, Shan Lu, Ding Yuan* (SOSP'21)
+               <span style="max-width:30px"> 
+                            <img src="https://github.com/hyperloop-rails/hyperloop-rails.github.io/blob/master/img/red.jpg" alt="" style="max-width:80px"> <img src="https://github.com/hyperloop-rails/hyperloop-rails.github.io/blob/master/img/green.jpg" alt="" style="max-width:80px">
+                </span>   
 
 - [Auto-Pipeline: Synthesizing Complex Data Pipelines By-Target Using Reinforcement Learning and Search](#). ***Junwen Yang**, Chaudhuri, Surajit* (VLDB'21)
 
