@@ -45,7 +45,7 @@ big-data softwares. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
 - [Understanding and Detecting Software Upgrade Failures in Distributed Systems](#). *Yongle zhang, **Junwen Yang**, Zhuqi Jin, Utsav Sethi, Shan Lu, Ding Yuan* (SOSP'21)
 
 <span style="max-width:30px"> 
-          <img src="red.jpg" alt="" style="max-width:80px"> <img src="green.jpg" alt="" style="max-width:80px">
+          <img src="./red.jpg" alt="" style="max-width:80px"> <img src="./green.jpg" alt="" style="max-width:80px">
 </span>  
 
 - [Auto-Pipeline: Synthesizing Complex Data Pipelines By-Target Using Reinforcement Learning and Search](#). ***Junwen Yang**, Chaudhuri, Surajit* (VLDB'21)
@@ -55,7 +55,7 @@ big-data softwares. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
 - [Managing data constraints in database-backed web applications](https://hyperloop-rails.github.io/278.pdf). ***Junwen Yang**, Utsav Sethi, Cong Yan, Shan Lu, Alvin Cheung* (ICSE'20)
 
 <span style="max-width:30px"> 
-          <img src="red.jpg" alt="" style="max-width:80px"> <img src="green.jpg" alt="" style="max-width:80px">
+          <img src="./red.jpg" alt="" style="max-width:80px"> <img src="./green.jpg" alt="" style="max-width:80px">
 </span>  
 
 - [View-Driven Optimization of Database-Backed Web Applications](https://homes.cs.washington.edu/~congy/view-driven.pdf). *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIDR'20)
@@ -65,7 +65,7 @@ big-data softwares. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
 - [View-Centric Performance Optimization for Database-Backed Web Applications](#). ***Junwen Yang**, Cong Yan, Chengcheng Wan, Shan Lu, Alvin Cheung* (ICSE'19)  <i class='fas fa-medal' style='font-size:24px;color:red'></i> <font color="maroon"><i>SIGSOFT Distinguished Paper Award</i></font>
 
 <span style="max-width:30px"> 
-          <img src="red.jpg" alt="" style="max-width:80px"> <img src="green.jpg" alt="" style="max-width:80px">
+           <img src="./red.jpg" alt="" style="max-width:80px"> <img src="./green.jpg" alt="" style="max-width:80px">
 </span>  
 
 - [PowerStation: Automatically detecting and fixing inefficiencies of database-backed web applications in IDE](https://hyperloop-rails.github.io/powerstation.
