@@ -43,22 +43,27 @@ big-data softwares. Here is my [resume]({{ site.url }}/jw_cv_long.pdf).
 # Publications
 
 - [Understanding and Detecting Software Upgrade Failures in Distributed Systems](#). *Yongle zhang, **Junwen Yang**, Zhuqi Jin, Utsav Sethi, Shan Lu, Ding Yuan* (SOSP'21)
-               <span style="max-width:30px"> 
-                            <img src="https://github.com/hyperloop-rails/hyperloop-rails.github.io/blob/master/img/red.jpg" alt="" style="max-width:80px"> <img src="https://github.com/hyperloop-rails/hyperloop-rails.github.io/blob/master/img/green.jpg" alt="" style="max-width:80px">
-                </span>   
+<span style="max-width:30px"> 
+          <img src="https://github.com/hyperloop-rails/hyperloop-rails.github.io/blob/master/img/red.jpg" alt="" style="max-width:80px"> <img src="https://github.com/hyperloop-rails/hyperloop-rails.github.io/blob/master/img/green.jpg" alt="" style="max-width:80px">
+</span>   
 
 - [Auto-Pipeline: Synthesizing Complex Data Pipelines By-Target Using Reinforcement Learning and Search](#). ***Junwen Yang**, Chaudhuri, Surajit* (VLDB'21)
 
 - [Automated Code Refactoring upon Database-Schema Changes in Web Applications](#). *Sophie Xie, **Junwen Yang**, Shan Lu* (ASE'21 Demonstration Track)
 
 - [Managing data constraints in database-backed web applications](https://hyperloop-rails.github.io/278.pdf). ***Junwen Yang**, Utsav Sethi, Cong Yan, Shan Lu, Alvin Cheung* (ICSE'20)
+<span style="max-width:30px"> 
+          <img src="https://github.com/hyperloop-rails/hyperloop-rails.github.io/blob/master/img/red.jpg" alt="" style="max-width:80px"> <img src="https://github.com/hyperloop-rails/hyperloop-rails.github.io/blob/master/img/green.jpg" alt="" style="max-width:80px">
+</span>  
 
 - [View-Driven Optimization of Database-Backed Web Applications](https://homes.cs.washington.edu/~congy/view-driven.pdf). *Cong Yan, **Junwen Yang**, Alvin Cheung, Shan Lu* (CIDR'20)
 
 - [Improving Performance and Quality of Database-Backed Software](./research_plan_splash_syposium.pdf). **Junwen Yang**.  <i class='fas fa-medal' style='font-size:24px;color:red'></i> <font color="maroon"><i>2019 John Vlissides Award</i></font>   (SPLASH 2019 Doctoral Symposium)
 
 - [View-Centric Performance Optimization for Database-Backed Web Applications](#). ***Junwen Yang**, Cong Yan, Chengcheng Wan, Shan Lu, Alvin Cheung* (ICSE'19)  <i class='fas fa-medal' style='font-size:24px;color:red'></i> <font color="maroon"><i>SIGSOFT Distinguished Paper Award</i></font>
-
+<span style="max-width:30px"> 
+          <img src="https://github.com/hyperloop-rails/hyperloop-rails.github.io/blob/master/img/red.jpg" alt="" style="max-width:80px"> <img src="https://github.com/hyperloop-rails/hyperloop-rails.github.io/blob/master/img/green.jpg" alt="" style="max-width:80px">
+</span>  
 
 - [PowerStation: Automatically detecting and fixing inefficiencies of database-backed web applications in IDE](https://hyperloop-rails.github.io/powerstation.
 ). ***Junwen Yang**, Cong Yan, Pranav Subramaniam, Shan Lu, Alvin Cheung* (FSE'18 Demonstartion Track)
